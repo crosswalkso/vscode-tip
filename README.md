@@ -23,7 +23,8 @@ Mac을 기준으로 합니다.
 ```
 lint는 설치하지 않아서 주석처리
 
-#### .prettierignore
+#### prettierignore
+`.prettierignore`
 ```
 *.md
 *.py
